@@ -66,7 +66,7 @@ protobuf
 pyarrow
 pyasn1
 pyasn1-modules
-PyAudio
+# PyAudio
 pydeck
 pyparsing
 python-dateutil
