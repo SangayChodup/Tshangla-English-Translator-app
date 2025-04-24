@@ -47,7 +47,7 @@ matplotlib==3.8.3
 moviepy==2.1.2
 multidict==6.2.0
 narwhals==1.35.0
-numpy
+numpy==1.23.5
 oauthlib==3.2.2
 opencv-python==4.8.0.76
 openpyxl==3.1.2
