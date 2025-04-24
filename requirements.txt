@@ -107,3 +107,5 @@ setuptools
 wheel
 fuzzywuzzy
 python-Levenshtein
+pip>=23.0
+setuptools>=67.0
